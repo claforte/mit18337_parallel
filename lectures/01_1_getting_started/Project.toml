@@ -1,0 +1,5 @@
+[deps]
+Demo1 = "a66fbfe2-866c-4a3b-a0d9-4728c218f943"
+FiniteDiff = "6a86dc24-6348-571c-b903-95158fe2bd41"
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
+LanguageServer = "2b0e0bc5-e4fd-59b4-8912-456d1b03d8d7"
